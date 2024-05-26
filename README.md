@@ -6,6 +6,8 @@ Esse conteúdo foi realizado para o desafio de projeto “Criando um Ebook com C
 - Imagens geradas via Copilot
 - Diagramação por Ana Carolina Corrêa Rosa
 
+# 📗 Ebook
+
 [Clique aqui para ler](https://github.com/CacauRosa/ebook-missao-python-fundamentos-para-novos-programadores/blob/main/ebook/Ebook%20-%20Miss%C3%A3o%20python%20fundamentos%20para%20novos%20programadores.pdf)
 
 ## 🛠️ Ferramentas utilizadas no projeto
@@ -14,7 +16,7 @@ Esse conteúdo foi realizado para o desafio de projeto “Criando um Ebook com C
 - [Copilot](https://copilot.microsoft.com/)
 - [Canva](https://www.canva.com/)
 
-## 🧠 Prompts
+## 💻 Prompts
 
 
 ChatGPT：
