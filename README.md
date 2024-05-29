@@ -8,7 +8,7 @@ Esse conteúdo foi realizado para o desafio de projeto “Criando um Ebook com C
 
 # 📗 Ebook
 
-[Clique aqui para ler](https://github.com/CacauRosa/ebook-missao-python-fundamentos-para-novos-programadores/blob/main/ebook/Ebook%20-%20Miss%C3%A3o%20python%20fundamentos%20para%20novos%20programadores.pdf)
+📖 [Clique aqui para ler](https://github.com/CacauRosa/ebook-missao-python-fundamentos-para-novos-programadores/blob/main/ebook/Ebook%20-%20Miss%C3%A3o%20python%20fundamentos%20para%20novos%20programadores.pdf)
 
 ## 🛠️ Ferramentas utilizadas no projeto
 
